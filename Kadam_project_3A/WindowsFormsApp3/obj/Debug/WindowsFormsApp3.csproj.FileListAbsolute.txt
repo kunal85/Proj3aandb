@@ -1,0 +1,10 @@
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\naikk\source\repos\Kadam_project_3A\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
